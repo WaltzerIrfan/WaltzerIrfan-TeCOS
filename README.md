@@ -1,4 +1,2 @@
 # WaltzerIrfan-TeCOS
-Inductions
-Irfan Khan
-NITT Civil Engineering
+NITT-Civil Engineering
